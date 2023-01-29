@@ -1,0 +1,144 @@
+{
+    "data": {
+        "RateconKeystone": {
+            "CustomerName": {
+                "Address1": "1657 Commerce Dr ",
+                "Address2": "Ste 9A ",
+                "BillingInfo": {
+                    "Address1": "1657 Commerce Dr ",
+                    "Address2": "Ste 9A ",
+                    "City": "South Bend",
+                    "Email": " ",
+                    "Fax": " ",
+                    "Name": "Keystone Logistics, Inc. ",
+                    "Phone": "956-331-8611",
+                    "PhoneExt": " ",
+                    "State": "IN  ",
+                    "Zip": "46628"
+                },
+                "City": "South Bend",
+                "ContactPerson/Dispatcher": "mdelagarza",
+                "ContactPersonPhone": "956-331-8611",
+                "DispatcherEmail": " ",
+                "Email": " ",
+                "Fax": " ",
+                "Name": "Keystone Logistics, Inc. ",
+                "Notes": " ",
+                "PaymentTerms": " ",
+                "Phone": "956-331-8611",
+                "PhoneExt": " ",
+                "QuickPayPCT": "0",
+                "State": "IN  ",
+                "TrackerEmail": " ",
+                "Zip": "46628"
+            },
+            "EquipmentName": " ",
+            "IsHazmat": "0",
+            "LoadAmount": "3400",
+            "LoadCategory": " ",
+            "LoadType": " ",
+            "Miles": "1052",
+            "Notes": " pu# 45161 SO844053 pick up on Sunday at 9am **** 28 degrees F continuously del#45161 deliver Tuesday at 6am",
+            "PowerOnlyLoad": "0",
+            "RateDetails": [
+                {
+                    "Amount": "$3,400.00 ",
+                    "DescriptionName": "LineHaul",
+                    "PER": " ",
+                    "Units": " "
+                },
+                {
+                    "Amount": " $0.00 ",
+                    "DescriptionName": "Fsc",
+                    "PER": " ",
+                    "Units": " "
+                },
+                {
+                    "Amount": "$0.00 ",
+                    "DescriptionName": "Additional Pay",
+                    "PER": " ",
+                    "Units": " "
+                }
+            ],
+            "RefNumber": "11418707",
+            "Stops": [
+                {
+                    "Address1": "400 Alexander Rd",
+                    "Address2": " ",
+                    "AppNumber": " ",
+                    "City": "Sunnyside",
+                    "Contact": " ",
+                    "FCFS": "0",
+                    "FacilityName": "Darigold",
+                    "FromDate": "03/20/2022",
+                    "FromTime": "9:00:AM",
+                    "IsAppRequired": "0",
+                    "Notes": "pick  up on Sunday at 9am **** 28 degrees F continuously",
+                    "Special Instructions": "appointments: sunnysidedock@darigold.com ext#4826 shipping dept Salvador",
+                    "PONumber": " ",
+                    "Phone": "509-837-8000",
+                    "ReturnTrailer": "0",
+                    "SealNumber": " ",
+                    "State": "WA ",
+                    "StopItems": [
+                        {
+                            "CONumber": " ",
+                            "Commodity": "cheese products",
+                            "ItemNumber": " ",
+                            "Length": " ",
+                            "PONumber": " ",
+                            "Pallets": " ",
+                            "PieceCount": " ",
+                            "Weight": "40000"
+                        }
+                    ],
+                    "StopNumber": 1,
+                    "StopType": "Pickup",
+                    "Temperature": " ",
+                    "ToDate": "03/20/2022",
+                    "ToTime": "9:00:AM",
+                    "Zip": "98944"
+                },
+                {
+                    "Address1": "6850 Artesia Blvd ",
+                    "Address2": " ",
+                    "AppNumber": " ",
+                    "City": "Buena Park",
+                    "Contact": " ",
+                    "FCFS": "0",
+                    "FacilityName": "Tuscany Cheese ",
+                    "FromDate": "03/22/2022",
+                    "FromTime": "6:00:AM",
+                    "IsAppRequired": "0",
+                    "Notes": " ",
+                    "Special Instructions": "Receiving 6am-3:30pm ",
+                    "PONumber": "Notes pu# 45161  SO844053",
+                    "Phone": "714-676-3930 ",
+                    "ReturnTrailer": "0",
+                    "SealNumber": " ",
+                    "State": "CA  ",
+                    "StopItems": [
+                        {
+                            "CONumber": " ",
+                            "Commodity": "cheese products",
+                            "ItemNumber": " ",
+                            "Length": " ",
+                            "PONumber": " ",
+                            "Pallets": " ",
+                            "PieceCount": " ",
+                            "Weight": "40000"
+                        }
+                    ],
+                    "StopNumber": 2,
+                    "StopType": "Drop",
+                    "Temperature": " ",
+                    "ToDate": "03/22/2022",
+                    "ToTime": "6:00:AM",
+                    "Zip": "90620"
+                }
+            ],
+            "Temperature": "28 degrees  F"
+        }
+    },
+    "message": "Files successfully!"
+}
